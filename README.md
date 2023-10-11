@@ -2,6 +2,10 @@
 
 <h1 align="left">Olá 👋, eu sou Edmilson Matias</h1>
 
+<p>Olá, meu nome é Edmilson Matias mas pode me chamar de Junior, tenho 38 anos e estou em um período de transição de carreira. Tenho dedicado mais de um ano aos estudos de programação, adquirindo conhecimento em linguagens como Java, JavaScript e Python. Além disso, estou familiarizado com ferramentas essenciais como Insomnia e Postman, e atualmente estou trabalhando no desenvolvimento de APIs REST.
+
+Tenho um forte gosto por trabalhar em equipe e considero a resiliência como uma das minhas principais qualidades. Uma curiosidade interessante sobre mim é meu apreço pela cultura japonesa e minha paixão por ler mangás.</p>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiasjr85&show_icons=true&locale=en" alt="matiasjr85" /></p>
 
 <h3 align="left">Contato:</h3>
