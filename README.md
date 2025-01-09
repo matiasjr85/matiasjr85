@@ -6,9 +6,11 @@
 
 Minha experiência inclui:
 
-Criação de APIs REST básicas;
-Desenvolvimento e integração com bancos de dados;
-Criação de Front-End básico utilizando Angular CLI e integrção com Back-End;
+-Criação de APIs REST básicas;
+
+-Desenvolvimento e integração com bancos de dados;
+
+-Criação de Front-End básico utilizando Angular CLI e integrção com Back-End;
 
 Valorizo o trabalho em equipe e acredito que a resiliência é uma das minhas principais qualidades. Como curiosidade, sou apaixonado pela cultura japonesa e adoro ler mangás, o que me inspira a sempre buscar novas histórias e perspectivas.
 
