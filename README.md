@@ -2,9 +2,17 @@
 
 <h1 align="left">Olá 👋, eu sou Edmilson Matias</h1>
 
-<p>Olá, meu nome é Edmilson Matias mas pode me chamar de Junior, tenho 38 anos e estou em um período de transição de carreira. Tenho dedicado mais de um ano aos estudos de programação, adquirindo conhecimento em linguagens como Java, JavaScript e Python. Além disso, estou familiarizado com ferramentas essenciais como Insomnia e Postman, e atualmente estou trabalhando no desenvolvimento de APIs REST.
+<p>Olá, meu nome é Edmilson Matias, mas você pode me chamar de Junior. Tenho 39 anos e estou cursando Engenharia de Software, com o objetivo de construir uma carreira como desenvolvedor Full Stack. Tenho me dedicado ao aprendizado em programação, adquirindo conhecimentos em linguagens como Java, JavaScript, TypeScript e Python. Além disso, estou familiarizado com ferramentas importantes, como Angular, Insomnia e Postman, além de bancos de dados como MongoDB e PostgreSQL.
 
-Tenho um forte gosto por trabalhar em equipe e considero a resiliência como uma das minhas principais qualidades. Uma curiosidade interessante sobre mim é meu apreço pela cultura japonesa e minha paixão por ler mangás.</p>
+Minha experiência inclui:
+
+Criação de APIs REST básicas;
+Desenvolvimento e integração com bancos de dados;
+Criação de Front-End básico utilizando Angular CLI e integrção com Back-End;
+
+Valorizo o trabalho em equipe e acredito que a resiliência é uma das minhas principais qualidades. Como curiosidade, sou apaixonado pela cultura japonesa e adoro ler mangás, o que me inspira a sempre buscar novas histórias e perspectivas.
+
+Estou empolgado para crescer na área de tecnologia e contribuir com projetos desafiadores e inovadores.</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiasjr85&show_icons=true&locale=en" alt="matiasjr85" /></p>
 
